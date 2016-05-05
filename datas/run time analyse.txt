@@ -1,0 +1,4 @@
+points 1000  stepsize -3.0 log-2.043960 time(Gau):0.040000 time(LU) 3.46
+points 5000  stepsize -3.7 log-2.744193 time(Gau):0.438000 time(LU) 731.93
+points 7000  stepsize -3.8 log-2.890408 time(Gau):0.809000 time(LU) 1424
+points 10000 stepsize -4.0 log-3.045380 time(Gau):1.586683 time(LU) 5407(with Mac)
