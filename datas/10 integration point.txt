@@ -1,0 +1,8 @@
+x: 0.1   Actual: 0.5321251  Calculated(LU): 1.708934    Calculated(Gaussian): 1.708934    log:0.3446921
+x: 0.2   Actual: 0.6646738  Calculated(LU): 1.695521    Calculated(Gaussian): 1.695521    log:0.1905858
+x: 0.3   Actual: 0.6502266  Calculated(LU): 1.546773    Calculated(Gaussian): 1.546773    log:0.1395082
+x: 0.4   Actual: 0.5817025  Calculated(LU): 1.348238    Calculated(Gaussian): 1.348238    log:0.1198315
+x: 0.5   Actual: 0.4932848  Calculated(LU): 1.131388    Calculated(Gaussian): 1.131388    log:0.111793
+x: 0.6   Actual: 0.3975485  Calculated(LU): 0.9077991    Calculated(Gaussian): 0.9077991    log:0.1083935
+x: 0.7   Actual: 0.2991199  Calculated(LU): 0.6817318    Calculated(Gaussian): 0.6817318    log:0.1069132
+x: 0.8   Actual: 0.1997009  Calculated(LU): 0.4547527    Calculated(Gaussian): 0.4547527    log:0.1062485
